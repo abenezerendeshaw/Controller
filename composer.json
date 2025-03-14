@@ -10,7 +10,7 @@
     },
     "autoload": {
         "files": [
-            "src/Hululabs/Helloworld/registration.php"
+            "registration.php"
         ],
         "psr-4": {
             "Hululabs\\BeforeAddToCart\\": "src/Hululabs/Helloworld/"
