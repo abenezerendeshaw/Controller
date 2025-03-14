@@ -21,5 +21,11 @@
             "hululabs\\Helloworld-controller\\": ""
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "repositories": {
+        "Helloworld": {
+            "type": "vcs",
+            "url": "https://github.com/abenezerendeshaw/Helloworld_controller.git"
+        }
+    }
 }
