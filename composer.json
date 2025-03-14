@@ -1,0 +1,22 @@
+{
+    "name": "hululabs/magento2-helloworld",
+    "description": "Magento 2 Helloworld Contoller",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4",
+        "magento/framework": "*"
+    },
+    "autoload": {
+        "files": [
+            "src/Hululabs/Helloworld/registration.php"
+        ],
+        "psr-4": {
+            "Hululabs\\BeforeAddToCart\\": "src/Hululabs/Helloworld/"
+        }
+    },
+    
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
