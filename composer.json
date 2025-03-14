@@ -13,7 +13,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Hululabs\\BeforeAddToCart\\": "src/Hululabs/Helloworld/"
+            "Hululabs\\BeforeAddToCart\\": "Hululabs/Helloworld/"
         }
     },
     
