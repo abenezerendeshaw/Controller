@@ -1,5 +1,5 @@
 {
-    "name": "Hululabs/Helloworld-controller",
+    "name": "hululabs/helloworld-controller",
     "description": "Your Magento 2 module description.",
     "type": "magento2-module",
     "version": "1.0.0",
@@ -18,7 +18,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Hululabs\\Helloworld-controller\\": ""
+            "h\\Helloworld-controller\\": ""
         }
     },
     "minimum-stability": "dev"
