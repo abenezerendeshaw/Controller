@@ -6,7 +6,7 @@
 
         <route frontName="myroute" id="myroute">
 
-            <module name="Hululabs_Helloworld"/>
+            <module name="Hululabs_Helloworld_controller"/>
 
         </route>
 
