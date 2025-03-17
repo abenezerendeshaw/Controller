@@ -22,6 +22,16 @@
             "hululabs\\Helloworld_controller\\": "Hululabs/Helloworld_controller/"
         }
     },
+
+     "extra": {
+        "map": [
+            [
+                "Hululabs/Helloworld_controller",
+                "app/code/Hululabs/Helloworld_controller"
+            ]
+        ]
+    },
+    
     "minimum-stability": "dev",
     "repositories": {
         "Helloworld": {
