@@ -1,5 +1,5 @@
 {
-    "name": "hululabs/helloworld_controller",
+    "name": "hululabs/helloworldcontroller",
     "description": "Your Magento 2 module description.",
     "type": "magento2-module",
     "version": "1.0.0",
@@ -19,15 +19,15 @@
             "registration.php"
         ],
         "psr-4": {
-            "hululabs\\Helloworld_controller\\": "Hululabs/Helloworld_controller/"
+            "hululabs\\HelloworldController\\": "Hululabs/HelloworldController/"
         }
     },
 
      "extra": {
         "map": [
             [
-                "Hululabs/Helloworld_controller",
-                "app/code/Hululabs/Helloworld_controller"
+                "Hululabs/HelloworldController",
+                "app/code/Hululabs/HelloworldController"
             ]
         ]
     },

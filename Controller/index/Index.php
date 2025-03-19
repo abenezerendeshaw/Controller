@@ -1,7 +1,7 @@
 <?php
 
 
-namespace  hululabs\Helloworld_controller\Controller\Index;
+namespace  hululabs\HelloworldController\Controller\Index;
 
 
 use \Magento\Framework\App\Action\Action;

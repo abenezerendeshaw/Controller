@@ -4,9 +4,9 @@
 
     <router id="standard">
 
-        <route frontName="myroute" id="myroute">
+        <route frontName="helloworld" id="helloworld">
 
-            <module name="Hululabs_Helloworld_controller"/>
+            <module name="Hululabs_HelloworldController"/>
 
         </route>
 
