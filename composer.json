@@ -19,9 +19,19 @@
             "registration.php"
         ],
         "psr-4": {
-            "hululabs\\Helloworld_controller\\": ""
+            "hululabs\\Helloworld_controller\\": "Hululabs/Helloworld_controller/"
         }
     },
+
+     "extra": {
+        "map": [
+            [
+                "Hululabs/Helloworld_controller",
+                "app/code/Hululabs/Helloworld_controller"
+            ]
+        ]
+    },
+    
     "minimum-stability": "dev",
     "repositories": {
         "Helloworld": {
