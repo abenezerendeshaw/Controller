@@ -1,5 +1,5 @@
 {
-    "name": "hululabs/helloworld-controller",
+    "name": "hululabs/helloworld_controller",
     "description": "Your Magento 2 module description.",
     "type": "magento2-module",
     "version": "1.0.0",
