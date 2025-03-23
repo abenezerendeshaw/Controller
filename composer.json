@@ -16,6 +16,9 @@
     "files": [
       "registration.php"
     ],
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+
     "psr-4": {
       "HuluLabs\\HelloWorldController\\": ""
     }
