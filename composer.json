@@ -1,42 +1,23 @@
 {
-    "name": "hululabs/helloworldcontroller",
-    "description": "Your Magento 2 module description.",
-    "type": "magento2-module",
-    "version": "1.0.0",
-    "license": [
-        "OSL-3.0",
-        "AFL-3.0"
-    ],
-    "require": {
-       "php": "^7.3 || ^7.4 || ^8.1 || ^8.2",
-        "magento/framework": ">=103.0.0",
-        "magento/module-store": ">=101.0.0",
-        "magento/module-catalog": ">=104.0.0",
-        "magento/module-theme": ">=100.0.0"
-    },
-    "autoload": {
-        "files": [
-            "registration.php"
-        ],
-        "psr-4": {
-            "hululabs\\helloworldcontroller\\": "Hululabs/helloworldcontroller/"
-        }
-    },
-
-     "extra": {
-        "map": [
-            [
-                "Hululabs/helloworldcontroller",
-                "app/code/Hululabs/helloworldcontroller"
-            ]
-        ]
-    },
-    
-    "minimum-stability": "dev",
-    "repositories": {
-        "Helloworld": {
-            "type": "vcs",
-            "url": "https://github.com/abenezerendeshaw/helloworldcontroller.git"
-        }
+  "name": "hululabs/helloworldcontroller",
+  "description": "Magento 2 Hello World Controller module by HuluLabs",
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "hululabs",
+      "email": "hululabs@example.com"
     }
+  ],
+  "require": {
+    "magento/framework": "*"
+  },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "HuluLabs\\HelloWorldController\\": ""
+    }
+  }
 }
