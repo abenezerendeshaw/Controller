@@ -19,15 +19,15 @@
             "registration.php"
         ],
         "psr-4": {
-            "hululabs\\HelloworldController\\": "Hululabs/HelloworldController/"
+            "hululabs\\helloworldcontroller\\": "Hululabs/helloworldcontroller/"
         }
     },
 
      "extra": {
         "map": [
             [
-                "Hululabs/HelloworldController",
-                "app/code/Hululabs/HelloworldController"
+                "Hululabs/helloworldcontroller",
+                "app/code/Hululabs/helloworldcontroller"
             ]
         ]
     },
@@ -36,7 +36,7 @@
     "repositories": {
         "Helloworld": {
             "type": "vcs",
-            "url": "https://github.com/abenezerendeshaw/Helloworld_controller.git"
+            "url": "https://github.com/abenezerendeshaw/helloworldcontroller.git"
         }
     }
 }
