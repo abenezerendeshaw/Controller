@@ -1,5 +1,5 @@
 <?php
-namespace HuluLabs\HelloWorldController\Controller\Index;
+namespace HuluLabs\HelloWorldController\Controller\index;
 
 use Magento\Framework\App\Action\Action;
 use Magento\Framework\App\Action\Context;
